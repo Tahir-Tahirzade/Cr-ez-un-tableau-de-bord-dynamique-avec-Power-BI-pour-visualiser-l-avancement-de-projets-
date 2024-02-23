@@ -31,11 +31,11 @@
 
 
   ## C.Resources:
-  - <li><a href=https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/DAN_V2_P8/Installation+Gantt+(1).pdf>Installation of the 'Gantt' visualization in Power BI.(In French)</a>
-  - <li><a href=https://support.apple.com/fr-fr/102622#:~:text=Cr%C3%A9er%20une%20partition%20Windows%20%C3%A0,cl%C3%A9%20USB%20sur%20votre%20Mac.>Create a Windows partition using the Boot Camp Assistant(In French)</a>
- - <li><a href=https://download.parallels.com/desktop/v18/docs/fr_FR/Parallels%20Desktop%20User's%20Guide/index.htm>Parallels Desktop(In French)</a>
- - <li><a href=https://appsource.microsoft.com/fr-fr/product/power-bi-visuals/wa104380765?tab=overview>The extension of Gantt Chart(In French)</a>
- - Jeu de données Sanitoral 
+ - [Installation of the 'Gantt' visualization in Power BI (In French)](https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/DAN_V2_P8/Installation+Gantt+(1).pdf)
+- [Create a Windows partition using the Boot Camp Assistant (In French)](https://support.apple.com/fr-fr/102622#:~:text=Cr%C3%A9er%20une%20partition%20Windows%20%C3%A0,cl%C3%A9%20USB%20sur%20votre%20Mac.)
+- [Parallels Desktop (In French)](https://download.parallels.com/desktop/v18/docs/fr_FR/Parallels%20Desktop%20User's%20Guide/index.htm)
+- [The extension of Gantt Chart (In French)](https://appsource.microsoft.com/fr-fr/product/power-bi-visuals/wa104380765?tab=overview)
+- Jeu de données Sanitoral
 
 
   ## SKILLS:
