@@ -1,7 +1,7 @@
 #  Create a dynamic dashboard with Power BI to visualize projects progress
 
 ## A.Overview of the Project:
-#### As a Data Analyst consultant at ESN Data, I was deployed to Sanitoral, an international dental care product manufacturing and marketing company, to undertake a data visualization mission. The client, Sanitoral, sought a solution for tracking project progress, identifying delays, and controlling performance within their Project Management Office.
+#### As a Data Analyst consultant at ESN Data, I was deployed to Sanitoral, an international dental care product manufacturing and marketing company, to undertake a data visualization mission. The dynamic dashboard was required to incorporate three roles, each with distinct authorization levels: CEO, Region Manager, and Country Manager.The client, Sanitoral, sought a solution for tracking project progress, identifying delays, and controlling performance within their Project Management Office.
 
 
 ## B.Steps:
@@ -31,7 +31,11 @@
 
 
   ## C.Resources:
-
+ - <li><a href=https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/DAN_V2_P8/Installation+Gantt+(1).pdf>Installation of the 'Gantt' visualization in Power BI.(In French)</a>
+ - <li><a href=https://support.apple.com/fr-fr/102622#:~:text=Cr%C3%A9er%20une%20partition%20Windows%20%C3%A0,cl%C3%A9%20USB%20sur%20votre%20Mac.>Create a Windows partition using the Boot Camp Assistant(In French)</a>
+ - <li><a href=https://download.parallels.com/desktop/v18/docs/fr_FR/Parallels%20Desktop%20User's%20Guide/index.htm>Parallels Desktop(In French)</a>
+ - <li><a href=https://appsource.microsoft.com/fr-fr/product/power-bi-visuals/wa104380765?tab=overview>The extension of Gantt Chart(In French)</a>
+ - Jeu de données Sanitoral 
 
 
   ## SKILLS:
@@ -43,8 +47,6 @@
 - Communication:Effectively communicated with the client, Sophie, to understand project requirements and present the Product Strategy Canvas.
 - Problem-Solving:dentified and addressed challenges outlined in the project scope, including data exploitation issues and the need for accessible visualizations.
 
-
-
-
-
   # REFERENCES:
+ - <li><a href=https://openclassrooms.com/fr/courses/7110891-realisez-des-dashboards-avec-power-bi>Create dashboards with Power BI.(In French)</a>
+ - <li><a href=https://openclassrooms.com/fr/courses/5944991-gerez-votre-temps-efficacement?archived-source=5166341>Manage your time effectively.(In French)</a>
