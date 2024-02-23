@@ -48,5 +48,6 @@
 - Problem-Solving:dentified and addressed challenges outlined in the project scope, including data exploitation issues and the need for accessible visualizations.
 
   # REFERENCES:
-  - <li><a href=https://openclassrooms.com/fr/courses/7110891-realisez-des-dashboards-avec-power-bi>Create dashboards with Power BI.(In French)</a>
-  - <li><a href=https://openclassrooms.com/fr/courses/5944991-gerez-votre-temps-efficacement?archived-source=5166341>Manage your time effectively.(In French)</a>
+- [Create dashboards with Power BI (In French)](https://openclassrooms.com/fr/courses/7110891-realisez-des-dashboards-avec-power-bi)
+- [Manage your time effectively (In French)](https://openclassrooms.com/fr/courses/5944991-gerez-votre-temps-efficacement?archived-source=5166341)
+
