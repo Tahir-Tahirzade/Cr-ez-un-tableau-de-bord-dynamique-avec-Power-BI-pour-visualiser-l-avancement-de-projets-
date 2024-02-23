@@ -1,7 +1,7 @@
 #  Create a dynamic dashboard with Power BI to visualize projects progress
 
 ## A.Overview of the Project:
-#### As a Data Analyst consultant at ESN Data, I was deployed to Sanitoral, an international dental care product manufacturing and marketing company, to undertake a data visualization mission. The dynamic dashboard was required to incorporate three roles, each with distinct authorization levels: CEO, Region Manager, and Country Manager.The client, Sanitoral, sought a solution for tracking project progress, identifying delays, and controlling performance within their Project Management Office.
+#### As a Data Analyst consultant at ESN Data, I was deployed to Sanitoral, an international dental care product manufacturing and marketing company, to undertake a data visualization mission. n collaboration with Sophie, the project manager at Sanitoral, I conducted an initial meeting to understand the company's needs. The outcome was a project scope document that served as a guiding document throughout the project. The identified challenges included the need for a dashboard to monitor project advancements, highlight delays, and ensure effective performance control for timely corrective actions.The dynamic dashboard was required to incorporate three roles, each with distinct authorization levels: CEO, Region Manager, and Country Manager.The client, Sanitoral, sought a solution for tracking project progress, identifying delays, and controlling performance within their Project Management Office.
 
 
 ## B.Steps:
